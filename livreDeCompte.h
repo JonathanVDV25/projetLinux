@@ -9,7 +9,7 @@
 #include <sys/shm.h>
 #include <sys/sem.h>
 
-#define MAX_COMPTE 1000
+#define MAX_COMPTES 1000
 
 #define SEM_KEY 369
 #define PERM 0666
